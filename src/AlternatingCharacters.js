@@ -4,5 +4,6 @@ export const AlternatingCharacters = (arr) => (
       if (char === str[i + 1]) { count++ }
       return count
     }, 0)
-  )
+ 
+         )
 )
